@@ -94,6 +94,6 @@ void MainWindow::on_textEdit_selectionChanged()
 
 void MainWindow::on_actShowAuthor_triggered()
 {
-    QMessageBox::about(this,"ciallo～(∠・ω< )⌒★","姓名：\n学号：");
+    QMessageBox::about(this,"制作者信息","姓名：\n学号：");
 }
 
