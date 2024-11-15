@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>iconPicture/1.jpg</file>
+        <file>iconPicture/editorPicture.png</file>
+    </qresource>
+    <qresource prefix="/icons">
+        <file>iconsFile/auto_wrap.png</file>
+        <file>iconsFile/chapter.png</file>
+        <file>iconsFile/content_copy.png</file>
+        <file>iconsFile/content_cut.png</file>
+        <file>iconsFile/content_paste.png</file>
+        <file>iconsFile/folder_open.png</file>
+        <file>iconsFile/font.png</file>
+        <file>iconsFile/note_add.png</file>
+        <file>iconsFile/redo.png</file>
+        <file>iconsFile/replace.png</file>
+        <file>iconsFile/save.png</file>
+        <file>iconsFile/save_as.png</file>
+        <file>iconsFile/search.png</file>
+        <file>iconsFile/Toolbar.png</file>
+        <file>iconsFile/undo.png</file>
+        <file>iconsFile/zhuangtailan.png</file>
+    </qresource>
+</RCC>
